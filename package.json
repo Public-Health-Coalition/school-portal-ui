@@ -1,7 +1,7 @@
 {
   "name": "school-portal-ui",
   "version": "0.0.1",
-  "description": "nextjs ui for nestjs-example",
+  "description": "mscan school portal ui",
   "private": true,
   "keywords": [
     "school-portal-ui"
