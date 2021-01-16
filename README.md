@@ -1,8 +1,8 @@
-# nestjs-example-ui
+# school-portal-ui
 
-[![GitHub stars](https://img.shields.io/github/stars/clayrisser/nestjs-example-ui.svg?style=social&label=Stars)](https://github.com/clayrisser/nestjs-example-ui)
+[![GitHub stars](https://img.shields.io/github/stars/clayrisser/school-portal-ui.svg?style=social&label=Stars)](https://github.com/clayrisser/school-portal-ui)
 
-> nextjs ui for nestjs-example
+> mscan school portal ui
 
 Please ★ this repo if you found it useful ★ ★ ★
 
